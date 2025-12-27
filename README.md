@@ -76,5 +76,3 @@ blackjack-project/
 
 ## 🤝 Contributing
 Pull requests are welcome! Fork the repo and submit a PR if you’d like to improve the game logic or add new features.
-
-👉 Since you’re exporting simulation results to Excel, I can also help you **add a visualization step** (e.g., win/loss ratio bar chart or distribution plot) so your README shows off analysis results. Would you like me to draft that code snippet for you?
